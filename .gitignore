@@ -1,0 +1,6 @@
+*.zip
+*.txt
+
+/config
+
+.DS_Store
